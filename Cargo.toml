@@ -1,0 +1,10 @@
+[package]
+name = "kp-http"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "kp-http"
+path = "main.rs"
